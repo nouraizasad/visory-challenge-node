@@ -1,0 +1,24 @@
+{
+  "name": "visory-challenge",
+  "version": "1.0.0",
+  "description": "An application to browser nearby events",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon src/index.ts"
+  },
+  "author": "Nouraiz Asad",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cors": "^2.8.17",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}

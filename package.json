@@ -4,7 +4,6 @@
   "description": "An application to browser nearby events",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start:dev": "nodemon src/index.ts"
   },
   "author": "Nouraiz Asad",

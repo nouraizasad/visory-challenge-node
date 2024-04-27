@@ -17,8 +17,6 @@ export const getEvents = async (queryParams: IQueryParams =  {}) => {
 
     const url = `${TICKERMASTER_URL}?apikey=${CONSUMER_KEY}&` + queryParamsString;
 
-    // return x;
-
     const res = await fetch(<string>url);
     const events = {
         ok: res.ok,

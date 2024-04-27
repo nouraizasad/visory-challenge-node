@@ -4,7 +4,7 @@ This project is part of the visory engineering challenge - a web application tha
 
 ## Pre-requisites
 
-1. Please ensure all the `.env` variables are present as shown in the `sample.env` file. I have shared the env variable values via email. You may reach out to me as well to get the variables.
+1. Please ensure all the `.env` variables are present in a newly created .env file as shown in the `sample.env` file. I have shared the env variable values via email. You may reach out to me as well to get the variables.
 
 2. Please ensure you are using the correct node version that this project supports: `20.10.0`
 
